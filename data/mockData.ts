@@ -21,7 +21,7 @@ export const votingProjects: Omit<Project, 'longDescription' | 'githubLink' | 'l
 ];
 
 export const leaderCandidates: Candidate[] = [
-    { id: 1, name: 'John Smith', position: 'CHAIRPERSON', imageUrl: 'https://picsum.photos/seed/john/200/200', vision: 'To foster a more inclusive environment and secure new industry partnerships for enhanced member opportunities.' },
+    { id: 1, name: 'John Fulanki', position: 'CHAIRPERSON', imageUrl: 'https://picsum.photos/seed/john/200/200', vision: 'To foster a more inclusive environment and secure new industry partnerships for enhanced member opportunities.' },
     { id: 2, name: 'Jane Doe', position: 'CHAIRPERSON', imageUrl: 'https://picsum.photos/seed/jane/200/200', vision: 'My focus is on increasing inter-departmental collaboration and launching a dedicated mentorship program.' },
     { id: 3, name: 'Peter Jones', position: 'PROJECT_COORDINATOR', imageUrl: 'https://picsum.photos/seed/peter/200/200', vision: 'I will streamline the project submission and review process, ensuring faster feedback and more support for ongoing projects.' },
     { id: 4, name: 'Alice Johnson', position: 'TREASURER', imageUrl: 'https://picsum.photos/seed/alice/200/200', vision: 'I aim to improve financial transparency with monthly reports and explore new fundraising initiatives to support more ambitious projects.' },
