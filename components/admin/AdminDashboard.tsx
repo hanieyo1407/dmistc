@@ -49,7 +49,7 @@ const AdminDashboard: React.FC<AdminDashboardProps> = ({ user, onNavigateProfile
                     <div className="bg-light-card dark:bg-dark-card border border-light-border dark:border-dark-border p-6 rounded-xl">
                          <h2 className="text-xl font-bold text-text-main-light dark:text-white mb-4">Member Engagement Trends</h2>
                          <div className="h-48 flex items-center justify-center text-text-muted-light dark:text-text-muted-dark">
-                            Chart component available in full analytics view.
+                            Ma chart components azizakhala apa.
                          </div>
                     </div>
                 </div>
