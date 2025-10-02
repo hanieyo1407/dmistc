@@ -152,7 +152,7 @@ const Header: React.FC<HeaderProps> = ({ user, onLogout, onNavigate, onNavigateT
             </div>
 
             {/* Mobile Menu */}
-            <div className={`md:hidden fixed inset-0 bg-light-bg/95 dark:bg-dark-bg/95 backdrop-blur-xl transition-transform duration-300 ease-in-out transform ${mobileMenuOpen ? 'translate-y-0' : '-translate-y-full'}`} style={{ paddingTop: '5rem' }}>
+            <div className={`md:hidden fixed inset-0 bg-light-bg/95 dark:bg-dark-bg/95 backdrop-blur-xl transition-transform duration-300 ease-in-out transform ${mobileMenuOpen ? 'translate-y-0' : '-translate-y-full'}`} style={{ paddingTop: '2rem' }}>
                 <nav className="flex flex-col items-center justify-center h-full space-y-8">
                     <NavLinks isMobile />
                     <div className="mt-8 flex flex-col items-center space-y-6">
