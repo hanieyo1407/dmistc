@@ -22,7 +22,7 @@ const ChartPlaceholder: React.FC<{ title: string, heightClass?: string }> = ({ t
     <div className="bg-light-card dark:bg-dark-card border border-light-border dark:border-dark-border p-6 rounded-xl">
         <h3 className="text-lg font-bold text-text-main-light dark:text-white mb-4">{title}</h3>
         <div className={`flex items-center justify-center bg-light-bg dark:bg-dark-bg rounded-lg ${heightClass}`}>
-            <p className="text-text-muted-light dark:text-text-muted-dark text-sm">Chart data would be displayed here.</p>
+            <p className="text-text-muted-light dark:text-text-muted-dark text-sm">Ma Charts azizakhala apa.</p>
         </div>
     </div>
 );
