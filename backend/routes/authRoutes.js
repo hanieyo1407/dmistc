@@ -1,0 +1,1 @@
+full contents of backend/routes/authRoutes.js
