@@ -4,7 +4,7 @@ const LoadingScreen: React.FC = () => {
     const [text, setText] = useState('');
     const [showBar, setShowBar] = useState(false);
     const [progress, setProgress] = useState(0);
-    const fullText = "DMIS&TCMH";
+    const fullText = "D_MIS&TCMH";
 
     useEffect(() => {
         let index = 0;
