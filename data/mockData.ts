@@ -76,17 +76,10 @@ export let events: ClubEvent[] = [
 
 export const momentsData: Moment[] = [
   { id: 1, imageUrl: 'https://res.cloudinary.com/unihousingmw/image/upload/v1759762794/20251006_152255_p1cokt.jpg', caption: 'Members collaborating during the 2023 Annual Hackathon.' },
-  { id: 2, imageUrl: 'https://picsum.photos/seed/moment2/1920/1080', caption: 'Our team presenting their project at the National Tech Fair.' },
-  { id: 3, imageUrl: 'https://picsum.photos/seed/moment3/1920/1080', caption: 'A hands-on robotics workshop for first-year students.' },
+  { id: 2, imageUrl: 'https://res.cloudinary.com/unihousingmw/image/upload/v1759763264/20251006_152332_jnpqni.jpg', caption: 'Our team presenting their project at the National Tech Fair.' },
+  { id: 3, imageUrl: 'https://res.cloudinary.com/unihousingmw/image/upload/v1759763492/20251006_155159_r5ugzs.jpg', caption: 'A hands-on robotics workshop for first-year students.' },
   { id: 4, imageUrl: 'https://picsum.photos/seed/moment4/1920/1080', caption: 'Guest lecture from a leading software engineer in the industry.' },
   { id: 5, imageUrl: 'https://picsum.photos/seed/moment5/1920/1080', caption: 'Celebrating the launch of our new mentorship program.' },
-  { id: 6, imageUrl: 'https://picsum.photos/seed/moment6/1920/1080', caption: 'Students from a local school engaging in our STEM outreach program.' },
-  { id: 7, imageUrl: 'https://picsum.photos/seed/moment7/800/600', caption: 'The winning team of the Innovation Sprint proudly showcasing their trophy.' },
-  { id: 8, imageUrl: 'https://picsum.photos/seed/moment8/800/600', caption: 'A lively discussion during a panel on the future of AI in education.' },
-  { id: 9, imageUrl: 'https://picsum.photos/seed/moment9/800/600', caption: 'Late-night coding session fueled by pizza and passion.' },
-  { id: 10, imageUrl: 'https://picsum.photos/seed/moment10/800/600', caption: 'The executive committee planning the calendar for the upcoming semester.' },
-  { id: 11, imageUrl: 'https://picsum.photos/seed/moment11/800/600', caption: 'A member demonstrating their IoT project to the club advisor.' },
-  { id: 12, imageUrl: 'https://picsum.photos/seed/moment12/800/600', caption: 'Club members networking with industry professionals after a seminar.' },
 ];
 
 export const pendingProjects: PendingProject[] = [
