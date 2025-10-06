@@ -75,7 +75,7 @@ export let events: ClubEvent[] = [
 ];
 
 export const momentsData: Moment[] = [
-  { id: 1, imageUrl: 'https://picsum.photos/seed/moment1/1920/1080', caption: 'Members collaborating during the 2023 Annual Hackathon.' },
+  { id: 1, imageUrl: 'https://res.cloudinary.com/unihousingmw/image/upload/v1759762794/20251006_152255_p1cokt.jpg', caption: 'Members collaborating during the 2023 Annual Hackathon.' },
   { id: 2, imageUrl: 'https://picsum.photos/seed/moment2/1920/1080', caption: 'Our team presenting their project at the National Tech Fair.' },
   { id: 3, imageUrl: 'https://picsum.photos/seed/moment3/1920/1080', caption: 'A hands-on robotics workshop for first-year students.' },
   { id: 4, imageUrl: 'https://picsum.photos/seed/moment4/1920/1080', caption: 'Guest lecture from a leading software engineer in the industry.' },
